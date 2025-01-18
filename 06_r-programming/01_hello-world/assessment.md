@@ -11,30 +11,30 @@
 
 ## Basic information
 
-Name:
+Name: Kristen Flaws
 
-CNetID:
+CNetID: 12454764
 
-Section:
+Section: 1
 
-Mini-project title:
+Mini-project title: Mini-Assignment-1
 
-Submission date:
+Submission date: 01/18/2025
 
-Project GitHub subdirectory URL:
+Project GitHub subdirectory URL: [06_r-programming/01_hello-world/Mini-Assignment-1.R](https://github.com/KFlaws/d2mr-assessment-kflaws/blob/main/06_r-programming/01_hello-world/Mini-Assignment-1.R)
 
 URL or instructions to access additional materials, if needed:
 
 
 ## Additional information
 
-1. Did you complete the project with direct collaborators or general support? If so, who did you collaborate with and what was/were their contribution(s)?
+1. Did you complete the project with direct collaborators or general support? If so, who did you collaborate with and what was/were their contribution(s)? No
     1. Direct collaborators (students who will be turning in a version of the same project) and their contributions:
     2. General support (students who helped you with debugging, conceptual understanding, or the like) and their contributions:
 2. Did you use LLMs or other AI models to generate text or code for this project? If so, which tools did you use and how did you use them? Remember in this class you *are* allowed (even encouraged) to use these tools for help with coding, but not for writing text. This can be very brief, just one or two sentences is fine unless you have more you'd like to add.
-    1. answer here 
+    1. I used ChatGPT to tell me why my code was running but I was not receiving the output I wanted so I could make the necessary adjustments.
 3. For off-the-menu projects only, did you complete the project as proposed? If not, what changed?
-    1. answer here or n/a
+    1. N/A
 
 ## Assessed Objectives
 
@@ -53,7 +53,7 @@ Below each learning objective is a list of general expectations for meeting that
     3.  Does not have duplicate/redundant elements
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments: 
 
@@ -95,7 +95,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses more than one function to install/load/require packages
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -105,7 +105,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses multiple operators in data transformation pipelines and/or inline R code
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -116,7 +116,7 @@ Below each learning objective is a list of general expectations for meeting that
     3. Functions are well-documented with comments
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -126,7 +126,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses multiple types of conditional/loop functions (e.g., `if_else()`, `case_when()`, `for`, `while`)
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -425,7 +425,7 @@ You are not required to demonstrate these objectives in your independent project
 If you believe you have demonstrated any of the above skills sufficiently to count toward the 20 additional objectives-based points, please indicate which objective(s) you believe you have met and provide a brief explanation of how you have met each objective.
 
 <!-- Explanation of demonstrated unassessed objectives below this line -->
-
+I believe I have demonstrated unassessed objectives 1, 2, 3, 4, 5, and 8 in this assignment. I met unassessed objective 1 by providing frequent comments throughout my assignment showing my thought process of the steps I was taking. I met unassessed objective 2 through downloading relevant packages and learning the r functions that were required for me to complete the assignment (assigning a function, conditionals, and the 'while' loop). For unassessed objective 3, I brought my questions to slack, ChatGPT, other students, and Dr.Dowling in order to find out why my code was not working in the way I had intended and looked for problem solving solutions. I met unassessed objective 4 by evaluating each of the error messages I received and either looking them up, asking a peer, or simply trying something else to see if it solved my issue. Many times, by looking at the error message I was able to figure out what was wrong and made easy adjustments. For example, I was using commas between my paste0 output options and I was receiving an error message. I did not have the {} in the correct place, so my code was not running properly and was not recognizing the reason for the commas. For unassessed objective 5, I followed Dr. Dowlings examples and coding style to help influence my own. And finally, for unassessed objective 8, I demonstrated use of a 'while' loop following my conditionals.
 
 <!-- Explanation of demonstrated unassessed objectives above this line -->
 
@@ -434,7 +434,7 @@ If you believe you have demonstrated any of the above skills sufficiently to cou
 If you have demonstrated any off-the-syllabus skills related to the course but not directly covered in class, please describe the skill(s) and how you have demonstrated them in your project. These may include things like building Quarto websites, working with non-tabular data, creating Shiny or other interactive applications, etc. Menu items marked "OtS" should demonstrate these skills, but you may demonstrate them in any other menu item or off-the-menu project.
 
 <!-- Explanation of demonstrated off-the-syllabus skills below this line -->
-
+I do not believe I demonstrated any off-the-syllabus skills in this project.
 
 <!-- Explanation of demonstrated off-the-syllabus skills above this line -->
 
@@ -447,14 +447,7 @@ Thoughtful reflections may earn engagement points.
 
 
 <!-- Reflection below this line -->
-
-
-
-
-
-
-
-
+This project, although relatively basic was difficult for me! When I first started, I felt like I couldn't get anything to work in the way I intended and I was getting very frustrated. I was encountering a lot of little problems that now seem very obvious, but before were stopping me in my tracks. For example, I was very confused why I could create my whole code, to what I thought was correct, but when I when to test it nothing happened. I was not clicking the 'run' button at the top to actually tell my code to run. Later, when I did run my code, I would test outputs and again I kept receiving error messages. I used ChatGPT to tell me what the issue was and I realized I was not using quotations around the names i was attempting to input, so R thought it was an undefined variable. Again, now these problems seem so obvious but now I know for the future! The most rewarding part of this project was finishing and having all of my codes run as intended! I was so proud of myself when I finished and although I know the projects are only going to get more difficult, I feel much more confident in how I will approach them, and even excited to explore more of R.
 
 <!-- Do not edit below this line. -->
 
