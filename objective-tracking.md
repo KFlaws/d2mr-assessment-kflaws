@@ -6,6 +6,8 @@ This document tracks your progress meeting 20 unique objectives across all mini-
 
 ## Unique objectives 
 
+1/21/25: 2/20
+
 ## GitHub and R Studio
 
 - [ ] Create and maintain a repo with sensible organization and naming conventions
@@ -17,8 +19,8 @@ This document tracks your progress meeting 20 unique objectives across all mini-
 
 - [ ] Find, install, require, and load R packages
 - [ ] Use arithmetic, comparison, and logical operators
-- [ ] Parse and define functions and arguments
-- [ ] Parse and write conditional statements and/or loops
+- [X] Parse and define functions and arguments
+- [X] Parse and write conditional statements and/or loops
 
 
 ## Tidyverse
