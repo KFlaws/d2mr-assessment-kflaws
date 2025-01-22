@@ -13,7 +13,7 @@
 
 Name: Kristen Flaws
 
-CNetID: 12454764
+CNetID: 12454764 <!-- your cnet id is the first part of your uchi email, not a number -->
 
 Section: 1
 
@@ -21,7 +21,7 @@ Mini-project title: Mini-Assignment-1
 
 Submission date: 01/18/2025
 
-Project GitHub subdirectory URL: [06_r-programming/01_hello-world/Mini-Assignment-1.R](https://github.com/KFlaws/d2mr-assessment-kflaws/blob/main/06_r-programming/01_hello-world/Mini-Assignment-1.R)
+Project GitHub subdirectory URL: [06_r-programming/01_hello-world/Mini-Assignment-1.R](https://github.com/KFlaws/d2mr-assessment-kflaws/blob/main/06_r-programming/01_hello-world/Mini-Assignment-1.R) <!-- in the future, link to the subdirectory rather than the file itself -->
 
 URL or instructions to access additional materials, if needed:
 
@@ -55,7 +55,7 @@ Below each learning objective is a list of general expectations for meeting that
         -   [ ] Objective attempt
         -   [X] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments: 
+        -   Grader comments: Although you're working in the assessment repo fork, for this objective you need to show us the ability to create and maintain your own original repo that can show understanding and applicability of GitHub best practices.
 
 2.  Maintain an informative and up-to-date README.md
 
@@ -97,7 +97,7 @@ Below each learning objective is a list of general expectations for meeting that
         -   [ ] Objective attempt
         -   [X] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments:
+        -   Grader comments: Your script is written in base R (no packages).
 
 6.  Use arithmetic, comparison, and logical operators
 
@@ -107,7 +107,9 @@ Below each learning objective is a list of general expectations for meeting that
         -   [ ] Objective attempt
         -   [X] Unique objective attempt
         -   [ ] Objective met
-        -   Grader comments:
+        -   Grader comments: 
+            - While arithmetic and comparison operators are correctly used in this script, logical operators are not explicitly used, like & (and), | (or), ! (not), etc. 
+            - There are no data transformation pipelines in the script, and because it is an .R script (not a .Rmd file), there is no inline R code. You could meet this objective in something other than those 2 recommendations, but it would need to be a more complex context.
 
 7.  Parse and define functions and arguments
 
@@ -117,7 +119,7 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [ ] Objective attempt
         -   [X] Unique objective attempt
-        -   [ ] Objective met
+        -   [X] Objective met
         -   Grader comments:
 
 8.  Parse and write conditional statements and/or loops
@@ -127,8 +129,8 @@ Below each learning objective is a list of general expectations for meeting that
 
         -   [ ] Objective attempt
         -   [X] Unique objective attempt
-        -   [ ] Objective met
-        -   Grader comments:
+        -   [X] Objective met
+        -   Grader comments: `if-else` and `while` are used
 
 ### Tidyverse
 
@@ -453,13 +455,13 @@ This project, although relatively basic was difficult for me! When I first start
 
 ## Grader feedback
 
--   Grader:
--   Date:
--   Points toward unique objectives (up to 20):
--   Additional points (up to 20):
+-   Grader: ND + ML
+-   Date: 1/20/25
+-   Points toward unique objectives (up to 20): 2
+-   Additional points (up to 20): 3
 -   TA provisional engagement points (up to 10):
--   Final approved engagement points (up to 10):
--   Total points (up to 50):
+-   Final approved engagement points (up to 10): 4
+-   Total points (up to 50): 9
 
 Engagement points are awarded for going above and beyond the expectations of the project and are not guaranteed on any given submission.. Demonstrating the assessed learning objectives earns you points in those categories, but engagement points are awarded for exceptional effort, creativity, or skill.
 
@@ -467,4 +469,23 @@ TAs may recommend engagement points provisionally, but the instructor will make 
 
 Additional comments: 
 
+Unassessed objectives met:
 
+-   [ ] 1 use frequent, informative comments in code and markdown
+    -   Note: good comments in your code, but no markdown to include comments in
+-   [X] 2 find and understand documentation for R packages and functions
+-   [X] 3 follow a debugging workflow with independent and collaborative strategies
+-   [X] 4 parse and investigate error messages
+-   [ ] 5 follow a coding style guide
+    -   Note: Your code is well-organized and easy to follow, but there aren't enough components to show consistent use of style (e.g., you've only got one function, so it's not clear what style rule you are using for naming functions or how you'd apply it to many functions/objects). If you want to attempt this in a future project, use the reflection in the assessment to explain how you made decisions about style and how you followed them consistently. 
+-   [ ] 8 parse and write complex `for` and `while` loops
+    -   Note: You did you a while loop, but it's not "complex." You've got the hang of it in principle though, so I think you can hit this one on your next project!
+
+ND: Great job! It's clear you put a lot of thought into your process and what you learned. Although you're not getting credit for all the objectives you attempted, I am confident that you are gaining (or have already gained!) those skills. It's just a matter of incorporating them into your work. I'm assigning 4 engagement points for: pushing yourself to get past a super steep early learning curve, asking for help (and learning from it very quickly), and challenging yourself to take on more than just the bare minimum, like working in that while loop even if it's not quite "complex" yet. Keep up the great work!
+
+ML:
+1. For unique objectives: Good job! A creative use of a built-in function `sample()`.
+2. Unassessed objectives evaluation: While 2, 3, and 4 are demonstrated in this assignment, 5 and 8 are not quite achieved as expected. 
+    - For 5, improvement on naming styles, spacing, and bracing could be made. For example, `helloworld` should be `hello_world` to follow `snake_case` convention. 
+    - For 8, no complex `for` and `while` loops are included.
+3. Reflection: Your reflection shows significant personal growth from overcoming initial frustrations to successfully completing your project, which is a key part of learning. Well done!
