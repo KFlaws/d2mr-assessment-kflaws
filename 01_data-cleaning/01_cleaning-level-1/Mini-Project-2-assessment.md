@@ -21,7 +21,7 @@ Mini-project title: Level 1 Data Cleaning- Clean the mtcars Dataset
 
 Submission date: 1/30/2025
 
-Project GitHub subdirectory URL: 
+Project GitHub subdirectory URL: https://github.com/KFlaws/d2mr-assessment-kflaws/blob/main/01_data-cleaning/01_cleaning-level-1/Levle%201%20Data%20Cleaning-%20Clean%20the%20mtcars%20Dataset.qmd
 
 URL or instructions to access additional materials, if needed:
 
