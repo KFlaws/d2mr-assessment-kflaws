@@ -11,30 +11,30 @@
 
 ## Basic information
 
-Name:
+Name: Kristen Flaws
 
-CNetID:
+CNetID: 12454764
 
-Section:
+Section: 1
 
-Mini-project title:
+Mini-project title: Level 1 Data Cleaning- Clean the mtcars Dataset
 
-Submission date:
+Submission date: 1/30/2025
 
-Project GitHub subdirectory URL:
+Project GitHub subdirectory URL: 
 
 URL or instructions to access additional materials, if needed:
 
 
 ## Additional information
 
-1. Did you complete the project with direct collaborators or general support? If so, who did you collaborate with and what was/were their contribution(s)?
+1. Did you complete the project with direct collaborators or general support? If so, who did you collaborate with and what was/were their contribution(s)? N/A
     1. Direct collaborators (students who will be turning in a version of the same project) and their contributions:
     2. General support (students who helped you with debugging, conceptual understanding, or the like) and their contributions:
 2. Did you use LLMs or other AI models to generate text or code for this project? If so, which tools did you use and how did you use them? Remember in this class you *are* allowed (even encouraged) to use these tools for help with coding, but not for writing text. This can be very brief, just one or two sentences is fine unless you have more you'd like to add.
-    1. answer here 
+    1. Yes, I used ChatGPT to explain error messages and explain why my code was not running correctly.
 3. For off-the-menu projects only, did you complete the project as proposed? If not, what changed?
-    1. answer here or n/a
+    1. N/A
 
 ## Assessed Objectives
 
@@ -95,7 +95,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses more than one function to install/load/require packages
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -105,7 +105,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses multiple operators in data transformation pipelines and/or inline R code
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -138,7 +138,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Writes out intermediate and/or final datasets in code chunks or sourced scripts
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -149,7 +149,7 @@ Below each learning objective is a list of general expectations for meeting that
     3. Combines `dplyr` and `tidyr` functions in a data transformation pipeline
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -159,7 +159,7 @@ Below each learning objective is a list of general expectations for meeting that
     2. Uses `stringr` functions in a data transformation pipeline
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -288,7 +288,7 @@ Below each learning objective is a list of general expectations for meeting that
     4.  Chunks are distributed throughout the manuscript, sensibly placed near the text they support
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments: 
         
@@ -300,7 +300,7 @@ Below each learning objective is a list of general expectations for meeting that
     4. Organizes setup chunks sensibly
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -313,7 +313,7 @@ Below each learning objective is a list of general expectations for meeting that
     5. References render without error and link to the correct table/figure in pdf/html output
 
         -   [ ] Objective attempt
-        -   [ ] Unique objective attempt
+        -   [X] Unique objective attempt
         -   [ ] Objective met
         -   Grader comments:
 
@@ -425,7 +425,7 @@ You are not required to demonstrate these objectives in your independent project
 If you believe you have demonstrated any of the above skills sufficiently to count toward the 20 additional objectives-based points, please indicate which objective(s) you believe you have met and provide a brief explanation of how you have met each objective.
 
 <!-- Explanation of demonstrated unassessed objectives below this line -->
-
+I believe I have demonstrated unassessed objectives 3, 4, 9, 12, and 13. I demonstrated unassessed objectives 3 and 4 through using troubleshooting techniques such as searching the errors, using chatgpt, reading the intro2r chapters, and looking at particular reddit pages when I needed extra help. I demonstrated unassessed objective 9 by using the mtcars dataset and creating my own clean.mtcars. I demonstrated objectives 12 and 13 by naming the variables as numeric and/or characters, and defining my dataset as a data frame. Additionally, I used strings and code chunks. 
 
 <!-- Explanation of demonstrated unassessed objectives above this line -->
 
@@ -434,7 +434,7 @@ If you believe you have demonstrated any of the above skills sufficiently to cou
 If you have demonstrated any off-the-syllabus skills related to the course but not directly covered in class, please describe the skill(s) and how you have demonstrated them in your project. These may include things like building Quarto websites, working with non-tabular data, creating Shiny or other interactive applications, etc. Menu items marked "OtS" should demonstrate these skills, but you may demonstrate them in any other menu item or off-the-menu project.
 
 <!-- Explanation of demonstrated off-the-syllabus skills below this line -->
-
+I do not believe I have demonstrated any off-the-syllabus skills.
 
 <!-- Explanation of demonstrated off-the-syllabus skills above this line -->
 
@@ -447,14 +447,7 @@ Thoughtful reflections may earn engagement points.
 
 
 <!-- Reflection below this line -->
-
-
-
-
-
-
-
-
+I am so proud of myself for completing this project! At first, I put off this project because I was not sure how to start, but once I was able to get started and start correcting my errors, the coding started to get easier. I began to recognize patterns with the codes and was able to do a lot more than I originally thought I could. It is so rewarding to have your code chunks all run correctly. For my future projects, I am going to just start even if I think the code looks intimidating and I want to push it off because once I start things will hopefully fall into place. 
 
 <!-- Do not edit below this line. -->
 
